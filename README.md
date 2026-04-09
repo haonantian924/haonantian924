@@ -7,11 +7,12 @@
 </p>
 
 ### 🚀 What I'm Building
-I am the **Founder & CEO of SRD AI**, currently incubated at **Opus (University of Saskatchewan)**. 
-We are redefining **Reliable AI for Harsh Environments**. 
+I am the **Founder & CEO of SRD AI**, currently incubated at Opus (University of Saskatchewan). 
+We are redefining **Reliable AI for Portable Edge Platforms**. 
 
-* **The Mission:** Protecting Edge AI models from physical layer failures and radiation-induced errors using tiered recovery and intelligent fault-tolerance.
-* **Target Sector:** Precision Agriculture & Industrial IoT.
+* **Core Focus:** Building robust deployment platforms and ensuring AI model reliability in the wild.
+* **The Mission:** Protecting Edge AI from physical layer failures, hardware faults, and soft errors using tiered recovery and intelligent fault-tolerance.
+* **Key Applications:** Mission-critical AI deployments, portable edge devices, and harsh physical environments.
 
 ---
 
