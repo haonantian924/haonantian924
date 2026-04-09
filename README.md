@@ -31,18 +31,24 @@ We are redefining **Reliable AI for Harsh Environments**.
 - **Key Breakthrough:** Developed a C/Python-based automated testbench for Jetson hardware that maintains AI inference integrity under laser-induced fault injection.
 
 ---
+### 📚 Selected Publications (Core Tech Foundation)
+*My startup's technology is backed by years of rigorous peer-reviewed research in hardware reliability:*
+
+1. **H. Tian**, et al., *"Improving transformer model reliability on NVIDIA Jetson AGX: Insights from single event effects with two-photon absorption laser analysis,"* **Microelectronics Reliability**, 2025. ([doi:10.1016/j.microrel.2025.115929](https://doi.org/10.1016/j.microrel.2025.115929))
+2. **H. Tian**, et al., *"Comparative Study: AutoDPR-SEM for Enhancing CNN Reliability in SRAM-based FPGAs through Autonomous Reconfiguration,"* **Microelectronics Reliability**, 2024. ([doi:10.1016/j.microrel.2024.115392](https://doi.org/10.1016/j.microrel.2024.115392))
+3. **H. Tian**, et al., *"Evaluation of SEU impact on convolutional neural networks based on BRAM and CRAM in FPGAs,"* **Microelectronics Reliability**, 2023. ([doi:10.1016/j.microrel.2023.114974](https://doi.org/10.1016/j.microrel.2023.114974))
+4. I. Younis, L. Chen, and **H. Tian**, *"Deep learning-based ship detection on FPGAs,"* **CICN**, 2022.
 
 ### ⚡ Fun Fact: The Speed Factor
 Beyond the code, I've been a competitive sprinter for over 15 years.
-- **100m Personal Best:** **10.96s** (USASK Huskies Track & Field Athlete).
+- USASK Huskies Track & Field Athlete.
 - I apply the same "0 to 100" acceleration mindset to building my startup.
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/haonantian](https://www.linkedin.com/in/haonantian924)
-- **Email:** (Your Email Here)
-- **SRD AI:** [SRD AI Project @ Opus]
+- **LinkedIn:** [linkedin.com/in/haonantian](www.linkedin.com/in/haonan-tian-srdai)
+- **Email:** (allen@srdai.ca)
 
 ---
 <p align="center">
