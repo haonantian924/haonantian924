@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Founder-SRD%20AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PhD-Electrical%20Engineering-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PhD-Electrical%20%26%20Computer%20Engineering-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Saskatoon,%20SK-green?style=for-the-badge" />
 </p>
 
