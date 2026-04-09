@@ -21,7 +21,7 @@ We are redefining **Reliable AI for Harsh Environments**.
 | **Embedded AI** | NVIDIA Jetson (Orin/AGX/Xavier), TensorRT, TPA Laser Testing |
 | **Hardware/FPGA** | Verilog, SystemVerilog, Vivado, Zynq-7000, UltraScale+, ASIC Flow |
 | **Software** | C, C++, Python (Automation & Data Analysis), Bash, Linux Kernel Debug |
-| **EDA/Industrial** | Siemens Solido, Cadence Virtuoso, Jira/Confluence, Git |
+| **EDA/Industrial** | Siemens EDA Solido, Cadence Virtuoso, Jira/Confluence, Git |
 
 ---
 
