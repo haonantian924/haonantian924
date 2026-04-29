@@ -121,7 +121,3 @@ Beyond research and startups, I have been a competitive sprinter for over 15 yea
 - **Email:** [allen@srdai.ca](mailto:allen@srdai.ca)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haonantian924&show_icons=true&theme=radical" alt="Allen's GitHub Stats" />
-</p>
